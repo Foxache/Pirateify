@@ -7,4 +7,4 @@ To install packages you need PIP. Look into Get-Pip.py from a trusted source.
 
 Needed packages:
 
-``` py -m pip install random time os subprocess webbrowser threading pynput tkinter PIL```
+```py -m pip install pynput Pillow```
