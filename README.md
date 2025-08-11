@@ -1,6 +1,6 @@
 # Pirateify
 A fun little python program to make yourself more like the awesome Second-Generation blizzard employee Piratesoftware
-
+It took ~2 hours from posting this on twitter for me to be blocked! awesome sauce.
 # Features:
 
 <details> 
