@@ -13,4 +13,4 @@ To install packages you need PIP. Look into Get-Pip.py from a trusted source.
 
 Needed packages:
 
-```py -m pip install pynput Pillow```
+```py -m pip install pynput Pillow sounddevice numpy```
